@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tentum in Camera Guild-hall civitas London, vicesimo tertio die Maii, anno Domini Christi 1663 ... an Act of Common-Council for the Translation of all Persons that Keep Inns, Osteries [sic], or Livery-Stables within this City and Liberties, into the Company of Innholders.</title>
+            <title>Act of Common-Council for the Translation of all Persons that Keep Inns, Osteries [sic], or Livery-Stables within this City and Liberties, into the Company of Innholders</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48986</idno>
+            <idno type="STC">Wing L2852V</idno>
+            <idno type="STC">ESTC R39342</idno>
+            <idno type="EEBO-CITATION">18368331</idno>
+            <idno type="OCLC">ocm 18368331</idno>
+            <idno type="VID">107415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tentum in Camera Guild-hall civitas London, vicesimo tertio die Maii, anno Domini Christi 1663 ... an Act of Common-Council for the Translation of all Persons that Keep Inns, Osteries [sic], or Livery-Stables within this City and Liberties, into the Company of Innholders.</title>
+                  <title>Act of Common-Council for the Translation of all Persons that Keep Inns, Osteries [sic], or Livery-Stables within this City and Liberties, into the Company of Innholders</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotels --  Law and legislation --  England --  London.</term>
+               <term>Bars (Drinking establishments) --  Law and legislation --  England --  London.</term>
+               <term>Taverns (Inns) --  Law and legislation --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:107415:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>Commune Concilium tentum in Camera <hi>Guild-Hall</hi> Civitatis <hi>London,</hi> 
+               <date>Viceſimo tertio die <hi>Maii,</hi> Anno Domini Chriſti 1663. Annoque Regni Domini noſtri CAROLI Secundi, Regis <hi>Anglioe, &amp;c.</hi> Decimo quinto,</date> coram <hi>Johanne Robinſon</hi> Milite &amp; Baronetto, Majore Civitatis praedictae <hi>Thoma Adams, Ricardo Brown, Thoma Aleyn</hi> Militibus &amp; Baronettis, Aldermannis, <hi>Anthonio Bateman</hi> Milite &amp; Aldermanno, <hi>Franciſco Meynell</hi> Aldermanno, <hi>Samuele Starling</hi> Aldermanno, <hi>Richardo Rives</hi> Aldermanno, <hi>Johanne Smith</hi> Aldermanno, <hi>Timotheo Wade</hi> Aldermanno, &amp; <hi>Willielmo Turner</hi> Milite, uno Vice com' dictae Civitatis, necnon majore parte Communiariorum de Communi Concilio tune &amp; ibidem aſſemblatis.</head>
+            <head type="sub">An Act of Common-Council for the Tranſlation of all Perſons that keep Inns, Oſteries, or Livery-Stables within this City and Liberties, into the Company of Innholders.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the Company of Innholders is and hath been an Ancient Company and Brotherhood of this City, and are incorporated by Charter, and enrolled amongſt the Charters of this City, upon the Original Inſtitution of which Company divers Laws and Ordinances were framed and ratified according to Law, not only for the good Government of the ſaid Company within it ſelf, but for the Safety and Preſervation of all Perſons reſorting to this City; And amongſt other Things it was Ordained, That every Perſon of the ſaid Company ſhould at his Admiſſion into the ſame take an Oath not to conceal or harbour any Suſpicious Perſons, but ſhould forthwith reveal the ſame unto ſome Magiſtrate; And that all their Tapſters, Oſtlers, and Chamberlains, within Twenty Days after Reteiner ſhould be preſented at the Common Hall of the ſaid Company, where their Names ſhould be Regiſtred, and then to take an Oath not to use any Deceits in Measures, not to conceal or abet any Felons, Murderers, or Suſpicious Perſons, or be a ſetter of any Robberies, or of Counſel with any Robbers. And further it was Ordained, That no Perſon ſhould keep any Inn, Oſtery, or Livery-Stable within this City of <hi>London,</hi> or Liberties thereof but that be ſhould have an open Sign to the Street; which Ordinances tend very much to the Safety of all Perſons reſorting to this City. But of late Years, moſt Inns, Oſteries, and Livery-Stables within this City and Liberties thereof, are kept by Per<g ref="char:EOLhyphen"/>ſons that are free of other Companies, and neither they nor their Servants ſubject to the ſaid Oaths and Ordinances by Reaſon whereof many Deceits are committed and daily uſed, and Robberies contrived, eſpecially in petty Oſteries and Libery-Stables, having no publick Signs viſible to Paſſengers, in which Places, by Experience, that Highway-Men, Trades-Mens Sons, and Apprentices keep Horſes and falſe Habits, and ſtart out in the Night, and commit Robberies, and waſte and conſume their Parents and Maſters Eſtates and Subſtance, and the ſaid Robbers lie hid in blind Ale-houſes, and when Search is made for ſuch Perſons, they eſcape the Hands of Juſtice, becauſe their Horſes as well as themſelves are conveyed into ſuch Obſcure Places, where Hue and Cry purſues them not, nor is ſearch made there.</p>
+            <p>For Remedy and Reformation whereof, and to the intent that all Freemen of this City keeping or occupying any Inn, Oſtery, or Livery Stable within this City and Liberties thereof may be reduced and brought to be Free of the ſaid Company of Innholders, whereby they and their Servants may be obliged to take the aforeſaid Oaths, and be ſubject unto, and obſerve and obey the aforeſaid Ordinances, and all People reſorting to this City may be the better ſe<g ref="char:EOLhyphen"/>cured, Robberies diſcovered, and other the aforementioned Miſchiefs for the future prevented, <hi>Be it Enacted,</hi> Ordained, and Eſtabliſhed by the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord Mayor; Aldermen<g ref="char:punc">▪</g> and Commons in this preſent Common <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouncil Aſſembled, and by the Authority of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>And it is hereby Enacted,</hi> That all and every Perſon or Perſons, of what Company ſoever they now be, or hereafter ſhall be, uſing the Act, Myſtery, or Occupation of an Innholder, or Keeping, or Occupying any Inn, Oſtery, or Livery-Stable within this City or Liberties thereof, ſhall be from henceforth translated from the Company whereof he is or ſhall be free unto the ſaid Company of Innholders, and be ſworn and admitted into the ſame.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That every Perſon or Perſons now occupying, uſing or keeping, or which at any Time here<g ref="char:EOLhyphen"/>after ſhall uſe, occupy, or keep any Inn, Oſtery, or Livery-Stable within this City of <hi>London</hi> or Liberties thereof, may and ſhall have free Liberty without any Reſtraint or paying any Summ of Money or any other thing whatſoever, to tranſlate him and themſelves from the Company whereof he is or ſhall be free, unto the ſaid Company of Innholders, And that every Perſon who ſhall be (as is aforeſaid) tranſlated to the Company of Innholders, Shall take his Place in the ſaid Company according to his Quality and Degree and having Reſpect unto the Office and Offices he hath born in, and the Precedency and Dignity of the Company from whence he ſhall be tranſlated: And if it ſhall happen any Difference to ariſe between the ſaid Company of Innholders and any Perſon ſo as is aforeſaid tranſlated) touching Place or Precedency, the ſaid Difference ſhall be finally determined by the Court of Lord-Mayor an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aldermen for the Time being.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That if any Perſon and Perſons now uſing or occupying, or which hereafter ſhall uſe or occupy any Inn, Oſtery, or Livery-Stable within this City of <hi>London</hi> or Liberties thereof and not being free of the ſaid Company of Innholders, ſhall not and do no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> within the State of three Months next after Monition or warning given or left in writing at the House or Lodging of ſuch Perſon uſing or keeping any Inn, Oſtery, or Livery-Stable, come and appear at the Common-Hall of the ſaid Company, upon the day and at the time appointed by the Maſter and VVardens of the ſaid Company, then and there to be admitted into the Fellowſhip of the ſaid Company, and to take the Oath appointed to be taken by the Freemen of the ſaid Company, or ſhall not and do not (within the ſaid three Months after ſuch Monition) preſent his and their Servant or Servants at the ſaid Common Ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l within twenty Days after Reteiner, there to be regiſtred and to take the aforeſaid Oath appointed by the Ordinances of the ſaid Company to be taken by all Hoſtlers, Tapſters, and Chamberlains, ſhall in either of the ſaid Caſes forfeit and pay the Summ of Forty Shillings for every Month after the ſaid three Months that be or they ſhall offend or do to the contrary.</p>
+            <p>
+               <hi>And be it alſo Enacted,</hi> That no Perſon or Perſons from and after the fifth Day of <hi>Auguſt</hi> next coming, ſhall uſe, keep, or occupy any Inn, Oſtery, or Livery-Stable within the City of <hi>London,</hi> or Liberties thereof, unleſs ſuch Per7s;on and Perſons ſhall have a publick Sign in open Streets and Lanes viſib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for all Paſſengers, hung out at or near his or their Inn, Oſtery, or Livery-Stable, upon pain of Forfeiture of Forty Shillings for every Month that he or they ſhall continue to uſe, keep, or occupy any Inn, Oſtery or Livery Stable, not having a publick Sign hung out to publick View as is aforeſaid.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That all and every the Forfeitures, Penalties. Sum and Sums of Money which ſhall be forfeite<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by reaſon of any Offence or Offences mentioned in this Act, ſhall be recovered by Action of Debt, Bill, Plaint, or Information, to be commenced and proſe<g ref="char:EOLhyphen"/>cuted in the Name of the Chamberlain of this City for the time being in the King's Majeſty's Court holden before the Mayor and Aldermen of the City of <hi>London</hi> in the Chamber of the <hi>Guild-Hall</hi> of the ſame City for the time being; in all which Action and Suits to be commenced and proſecuted by Virtue of this preſent Act against the Offender or Offenders, the ſaid Chamberlain ſhall recover the ordinary Coſts of Suit to be expended in and about the Proſecuti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of ſuch Action and Suits, wherein no Eſſoign or VVager of Law ſhall be admitted or allowed for the Defendant.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That all Pains, Penalties, and Forfeitures to be had and recovered by Virtue of this Act (th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Charges of the Suit for the Recovery thereof being firſt deducted) ſhall be divided into two equal Parts, the one Moiety whereof ſhall be paid unto the Trea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rer of <hi>Chriſt's-Hoſpital</hi> for the time being, towards the Maintenance of the poor Children harboured and kept in the ſaid Hoſpital, and the other Moiety to him or them that will proſecute and ſue for the ſame in the Name of the Chamberlain of the aforeſaid City for the Time being.</p>
+            <closer>
+               <signed>Weld</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered that this Act be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>Weld.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
